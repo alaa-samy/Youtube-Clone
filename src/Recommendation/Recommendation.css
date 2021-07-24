@@ -1,0 +1,10 @@
+.recommended{
+    background-color: #f9f9f9;
+    padding: 40px 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 255px;
+}
+.recommended > a{
+    text-decoration: none;
+}

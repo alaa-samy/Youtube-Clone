@@ -1,0 +1,20 @@
+.sidebar__row{
+    display: flex;
+    align-items: center;
+    height:40px;
+    padding:0px 0px 0px 35px;
+}
+.sidebar__row .sidebar__title{
+    font-size: 15px;
+    color: #030303;
+    font-weight: 400;
+    margin-left: 15px;
+    flex:1
+}
+.sidebar__row:hover{
+    background-color: #0000000d;
+    cursor:pointer
+}
+.sidebar__row.selected{
+    background-color: #e5e5e5;
+}

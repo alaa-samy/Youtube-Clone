@@ -1,0 +1,16 @@
+.sidebar {
+    position: fixed;
+    display: block;
+    background: #fff;
+    width: 250px;
+    height:100vh
+}
+.sidebar hr{
+    margin: 12px 10px 12px 0;
+    height: 1px;
+    border: 0;
+    background-color: #0000001a;
+}
+.sidebar a{
+    text-decoration: none;
+}

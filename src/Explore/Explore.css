@@ -1,0 +1,14 @@
+.explorePage{
+    margin-left:255px;
+    padding:10px 40px 40px 20px;
+    background-color:#f9f9f9
+}
+.explorePage_tabs{
+    display:flex
+}
+.explorePage .trending{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    font-weight: 500;
+}
